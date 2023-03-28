@@ -1,0 +1,11 @@
+{"level":"info","message":"provided numbers have been multiplied, the result of multipilcation of 3 ans 6 is 9","service":"user-service"}
+{"level":"error","message":"error while adding","service":"user-service"}
+{"level":"info","message":"provided numbers have been multiplied, the result of multipilcation of 5 ans 4 is 9","service":"user-service"}
+{"level":"info","message":"provided numbers have been added, the result of addition of 5 ans 4 is 9","service":"user-service"}
+{"level":"info","message":"provided numbers have been subtracted, the result of subtraction of 5 ans 4 is 1","service":"user-service"}
+{"level":"info","message":"provided numbers have been added, the result of addition of 10 ans 2 is 12","service":"user-service"}
+{"level":"info","message":"provided numbers have been subtracted, the result of subtraction of 10 ans 2 is 8","service":"user-service"}
+{"level":"info","message":"provided numbers have been subtracted, the result of subtraction of 10 ans 2 is 8","service":"user-service"}
+{"level":"info","message":"provided numbers have been divided, the result of division of 10 ans 2 is 5","service":"user-service"}
+{"level":"info","message":"provided numbers have been multiplied, the result of multiplication of 10 ans 2 is 20","service":"user-service"}
+{"level":"info","message":"provided numbers have been divided, the result of division of 10 ans 0 is Infinity","service":"user-service"}
